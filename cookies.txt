@@ -1,8 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-miespe.espe.edu.ec	TRUE	/	FALSE	1999999999	UserAgentId	8100266885910934892
-.espe.edu.ec	TRUE	/	FALSE	1999999999	fos.web.server	lumresource
-.espe.edu.ec	TRUE	/	FALSE	1999999999	fos.secure.web.server	lumresource
-.espe.edu.ec	TRUE	/	FALSE	1999999999	runId	-3309632991439517364
-miespe.espe.edu.ec	TRUE	/	FALSE	1999999999	JSESSIONID	B33898472D9C79FFF5E7AC0B5EAC4704
-
